@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew W. Abruzzo"
+title                    : "Matthew W Abruzzo"
 title_separator          : "-"
-name                     : &name "Matthew W. Abruzzo"
+name                     : &name "Matthew W Abruzzo"
 description              : &description "Astrophysicist"
 url                      : https://mabruzzo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

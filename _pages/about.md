@@ -16,4 +16,4 @@ I'm a fourth year astronomy PhD candidate at Columbia University and my advisor 
 For my research, I employ numerical simulations to investigate galactic evolution and properties of the circumgalactic medium.
 I am also interested the development of hydrodynamical codes and am a contributor to the hydrodynamics code [Enzo-E](https://github.com/enzo-project/enzo-e).
 
-** This site is currently under construction. Please pardon its appearance.**
+__This site is currently under construction. Please pardon its appearance.__
